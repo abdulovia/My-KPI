@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/icons8-about-24.png</file>
+        <file>icons/icons8-admin-settings-male-24.png</file>
+        <file>icons/icons8-building-24.png</file>
+        <file>icons/icons8-docs-24.png</file>
+        <file>icons/icons8-download-24.png</file>
+        <file>icons/icons8-exit-24.png</file>
+        <file>icons/icons8-help-24.png</file>
+        <file>icons/icons8-menu-24.png</file>
+        <file>icons/icons8-notification-24.png</file>
+        <file>icons/icons8-search-24.png</file>
+        <file>icons/icons8-settings-24.png</file>
+        <file>icons/icons8-user-24 (1).png</file>
+        <file>icons/icons8-user-24.png</file>
+    </qresource>
+</RCC>
